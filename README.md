@@ -25,5 +25,3 @@ I'm a software developer for more than three years.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baliani_Marcelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcelo-baliani-88b662a1/)
 </br>
 [![Email](https://img.shields.io/badge/baliani.m85@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
-</br>
-[![MyPublicInbox](https://img.shields.io/badge/Cofee_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mbaliani)
